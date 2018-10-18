@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971130624999",
+    "firebase_url": "https://phoneverificationapp-34650.firebaseio.com",
+    "project_id": "phoneverificationapp-34650",
+    "storage_bucket": "phoneverificationapp-34650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971130624999:android:69e52b2ae93f31e6",
+        "android_client_info": {
+          "package_name": "com.example.prince.phoneverificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971130624999-4tpcgliq47r108gb761lkrm10rn4ci5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prince.phoneverificationapp",
+            "certificate_hash": "6135e44d761bdc1658dde4a1790220dc9b19c62a"
+          }
+        },
+        {
+          "client_id": "971130624999-6243fegvpsp3hun55u42p05ogrfoad9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKv3JWYjrC3_Wav3WJ1m2L-Krc569xCyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971130624999-6243fegvpsp3hun55u42p05ogrfoad9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
